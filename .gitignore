@@ -1,0 +1,11 @@
+__pycache__
+.env
+.hf_cache/*
+.venv
+client_secret.json
+yt_credentials.json
+audio/*
+videos/*
+logs/*
+frames/*
+story/*
