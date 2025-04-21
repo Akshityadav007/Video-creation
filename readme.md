@@ -9,9 +9,6 @@ winget install ImageMagick.Q16-HDRI
 ```markdown
 # Automated Video Creation Tool 🎥
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A Python-based automated video creation system that generates videos using images from Pexels, text-to-speech narration, and exports final videos with subtitles. Includes YouTube upload capability.
 
 ## Features ✨
