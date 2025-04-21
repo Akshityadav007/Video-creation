@@ -9,3 +9,4 @@ videos/*
 logs/*
 frames/*
 story/*
+!.gitkeep
